@@ -1,0 +1,17 @@
+{
+  "name": "college-email-briefing",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "next-auth": "4.24.7",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@upstash/redis": "1.34.0"
+  }
+}
