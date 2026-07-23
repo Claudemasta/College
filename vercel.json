@@ -1,5 +1,5 @@
 {
   "crons": [
-    {}
+    {"path": "/api/sync?secret=REPLACE_WITH_YOUR_CRON_SECRET", "schedule": "*/15 * * * *"}
   ]
 }
